@@ -1,0 +1,20 @@
+[
+    {
+        "Email": "sazzad@gmail.com",
+        "Hostel-code": 12345,
+        "Cost": 2000,
+        "Type": "Home credit"
+    },
+    {
+        "Email": "aman@gamil.com",
+        "Hostel-code": 12345,
+        "Cost": 1500,
+        "Type": "Electricity bill"
+    },
+    {
+        "Email": "emon@gamil.com",
+        "Hostel-code": 12345,
+        "Cost": 1000,
+        "Type": "Wifi bill"
+    }
+]

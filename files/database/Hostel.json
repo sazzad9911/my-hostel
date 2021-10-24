@@ -1,0 +1,29 @@
+[
+{
+    "Hostel-Code":"12345",
+    "Hostel-Name":"Mal-dip",
+    "Manager":"Email",
+    "Admin":"Email",
+    "Super-Admin":"Email",
+    "Address":"fghjgfd",
+   " Meal-Type":"Average"
+},
+{
+    "Hostel-Code":"12345",
+    "Hostel-Name":"Mal-dip",
+    "Manager":"Email",
+    "Admin":"Email",
+    "Super-Admin":"Email",
+    "Address":"fghjgfd",
+   " Meal-Type":"Fixt"
+},
+{
+    "Hostel-Code":"12345",
+    "Hostel-Name":"Mal-dip",
+    "Manager":"Email",
+    "Admin":"Email",
+    "Super-Admin":"Email",
+    "Address":"fghjgfd",
+   " Meal-Type":"Average"
+}
+]

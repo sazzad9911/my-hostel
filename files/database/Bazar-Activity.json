@@ -1,0 +1,19 @@
+[{
+    "Email":"sazzad@gmail.com",
+    "Hostel-code":"12345",
+    "Cost":120,
+    "Type":"Breakefast"
+},
+{
+    "Email":"aman@gmail.com",
+    "Hostel-code":"12345",
+    "Cost":120,
+    "Type":"lunce"
+},
+{
+    "Email":"emon@gmail.com",
+    "Hostel-code":"12345",
+    "Cost":120,
+    "Type":"Denner"
+}
+]

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "937645413342",
+    "project_id": "safta-org",
+    "storage_bucket": "safta-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937645413342:android:dd5281f1f12ded9077c34f",
+        "android_client_info": {
+          "package_name": "com.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937645413342-f3i2jo773is63fqtv3d61p8vft53eu09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my",
+            "certificate_hash": "5d4e15cc3efb844624ae9c24fcad94000101320f"
+          }
+        },
+        {
+          "client_id": "937645413342-5n5rlrm84dg86uncvj0dvad7klqlfimn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFAWw4L8OKPsJOcFD2mFm6KKQTjgTCYIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937645413342-5n5rlrm84dg86uncvj0dvad7klqlfimn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
